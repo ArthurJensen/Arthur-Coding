@@ -35,7 +35,7 @@ header img{
 
 border-radius: 400px;
 width: 400px;
-border:20px solid white;
+border:5px solid white;
     
 }
 
@@ -50,6 +50,7 @@ main{
 main img{
 
 max-width: 100%;
+
 
 }
 
